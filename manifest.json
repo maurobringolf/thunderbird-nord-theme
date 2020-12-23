@@ -1,0 +1,48 @@
+{
+  "manifest_version":2,
+  "applications":{
+    "gecko":{
+      "id":"thunderbird_nord_theme@example.com",
+      "strict_min_version":"60.0"
+    }
+  },
+  "name":"Thunderbird Nord Theme",
+  "description":"Nord colors",
+  "version":"1.0",
+  "theme":{
+  	"images": {
+		"theme_frame":"arch.png"
+	},
+	"colors":{
+		"bookmark_text": "#000000",
+		"frame": "#2E3440",
+		"frame_inactive": "#2E3440",
+		"popup": "#2E3440",
+		"popup_text": "#D8DEE9",
+		"popup_border": "#000000",
+		"popup_highlight": "#000000",
+		"popup_highlight_text": "#000000",
+		"popup_border": "#000000",
+		"sidebar": "#2E3440",
+		"sidebar_text": "#D8DEE9",
+		"sidebar_highlight": "#EBCB8B",
+		"sidebar_highlight_text": "#2E3440",
+		"sidebar_border": "#D8DEE9",
+		"tab_text": "#EBCB8B",
+		"tab_line": "#EBCB8B",
+		"tab_loading": "#000000",
+		"tab_background_text": "#EBCB8B",
+		"toolbar_field": "#2E3440",
+		"toolbar_field_text": "#D8DEE9",
+		"toolbar_field_highlight": "#2E3440",
+		"toolbar_field_highlight_text": "#D8DEE9",
+		"toolbar_field_border": "#000000",
+		"toolbar_field_border_focus": "#000000",
+		"toolbar_field_focus": "#2E3440",
+		"toolbar_field_text_focus": "#D8DEE9",
+		"toolbar_top_separator": "#EBCB8B",
+		"toolbar_bottom_separator": "#EBCB8B",
+		"toolbar_vertical_separator": "#EBCB8B"
+    }
+  }
+}
